@@ -30,7 +30,7 @@ In the downloaded `bot-tutorial-master` bundle you will find below Quickstart Ju
 
 To speed up the process, we can set up a baseline for you and give you access to a bot running in the cloud.
 
-**This is by far the easiest option of those listed here**
+**This is by far the easiest option of those listed here**<br/>
 **Please email bramos@stanford.edu to ask for your bot to be set up**
 
   
